@@ -26,7 +26,8 @@
     "website": "7-391-concept-centered-teaching-spring-2006"
   },
   "course_title": "Concept-Centered Teaching",
-  "course_description": "Do you like teaching, but find yourself frustrated by how little students seem to learn? Would you like to try teaching, but are nervous about whether you will be any good at it? Are you interested in new research on science education? Research in science education shows that the greatest obstacle to student learning is the failure to identify and confront the misconceptions with which the students enter the class or those that they acquire during their studies. This weekly seminar course focuses on developing the participants' ability to uncover and confront student misconceptions and to foster student understanding and retention of key concepts. Participants read primary literature on science education, uncover basic concepts often overlooked when teaching biology, and lead a small weekly discussion session for students currently enrolled in introductory biology classes.\n\nThe instructor for this course, Dr. Kosinski-Collins, is a member of the {{% resource_link \"8010845c-12f9-4874-ae49-6df40f866987\" \"HHMI Education Group\" %}}.\n",
+  "hide_download": true,
+  "course_description": "Do you like teaching, but find yourself frustrated by how little students seem to learn? Would you like to try teaching, but are nervous about whether you will be any good at it? Are you interested in new research on science education? Research in science education shows that the greatest obstacle to student learning is the failure to identify and confront the misconceptions with which the students enter the class or those that they acquire during their studies. This weekly seminar course focuses on developing the participants' ability to uncover and confront student misconceptions and to foster student understanding and retention of key concepts. Participants read primary literature on science education, uncover basic concepts often overlooked when teaching biology, and lead a small weekly discussion session for students currently enrolled in introductory biology classes.\n\nThe instructor for this course, Dr. Kosinski-Collins, is a member of the [HHMI Education Group](http://educationgroup.mit.edu/HHMIEducationGroup/).\n",
   "department_numbers": [
     "7"
   ],
@@ -36,6 +37,7 @@
     "content": "3129eb95-a2a0-8f02-872d-d958a6ac1591",
     "website": "7-391-concept-centered-teaching-spring-2006"
   },
+  "hide_download_original": true,
   "learning_resource_types": [],
   "site_uid": "6543c537-807e-4ee2-9def-8538507cc0c0",
   "site_short_id": "7.391-spring-2006",

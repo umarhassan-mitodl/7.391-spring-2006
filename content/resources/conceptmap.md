@@ -5,6 +5,8 @@ description: This resource provides information on group dynamics and creating a
 file: /courses/7-391-concept-centered-teaching-spring-2006/25007bc28f24a6fed155f69be4e477e9_conceptmap.pdf
 file_size: 20277
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Readings
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

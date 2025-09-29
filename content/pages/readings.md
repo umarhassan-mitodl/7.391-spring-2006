@@ -25,7 +25,7 @@ Introduction - The Importance of Scientific Teaching and Mentoring
 
 We will begin by introducing ourselves and talking about what each of us hopes to get out of the class, our backgrounds and sources of interest in the subject of the seminar. We will discuss the importance of being a good teacher/mentor in the biological sciences and will read the "Scientific Teaching" article. By doing so we will set out the overall goals of the class.
 
-We will go over the discussion class options between {{% resource_link "c63593ec-c29e-4481-bd53-5674fea18fc2" "7.014" %}} or 7.02. You will be required to choose one of the two classes by Friday, two days after Ses #1 and email the instructor your decision.
+We will go over the discussion class options between [7.014](https://ocw.mit.edu/courses/7-014-introductory-biology-spring-2005/) or 7.02. You will be required to choose one of the two classes by Friday, two days after Ses #1 and email the instructor your decision.
 
 {{< tdclose >}}{{< tdopen >}}
 Handelsman, J., D. Ebert-May, R. Beichner, P. Bruns, A. Chang, R. Dehaan, J. Gentile, S. Lauffer, J. Stewart, S. M. Tilghman, and W. B. Wood. "Scientific Teaching." *Science* 304 (2004): 521-522.

@@ -4,6 +4,8 @@ description: This resource provides information about the basics of self-assessm
 file: /courses/7-391-concept-centered-teaching-spring-2006/1531e1cd766195038e024767f7ae465c_selfassess.pdf
 file_size: 16855
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Readings
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
