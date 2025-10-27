@@ -5,8 +5,6 @@ description: 'This resource provides a number of discussion questions on the top
 file: /courses/7-391-concept-centered-teaching-spring-2006/85decafab85afab305b411892d85e854_ugradbioreform.pdf
 file_size: 22776
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Readings
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
